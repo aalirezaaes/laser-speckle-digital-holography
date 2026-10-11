@@ -11,7 +11,6 @@ A research showcase bringing together related numerical investigations of cohere
 
 Two registered intensity holograms are compared through **direct raw-hologram differencing**, with independently reconstructed differential phase used as a reference pathway. The pre-reconstruction difference is intended for **qualitative defect-sensitive screening**; it is not presented as a direct quantitative phase measurement.
 
-![Direct-difference and reconstruction workflow](images/hologram-difference-workflow.png)
 
 ## 2. Laser Speckle Imaging: Intensity and Hidden Phase
 
@@ -19,7 +18,6 @@ Two registered intensity holograms are compared through **direct raw-hologram di
 
 Conceptual and numerical illustrations of reflective speckle formation, recorded intensity, and corresponding synthetic phase structure. The figures explain how phase variation can affect camera-recorded intensity patterns without the detector directly measuring phase.
 
-![Speckle formation figure](images/speckle-formation-figure.png)
 
 ## 3. Two-Stage ResNet-18 Phase Retrieval
 
@@ -27,7 +25,6 @@ Conceptual and numerical illustrations of reflective speckle formation, recorded
 
 A separate deep-learning research direction exploring a two-stage **ResNet-18-based workflow** for qualitative and quantitative phase-retrieval tasks using speckle-hologram representations.
 
-![ResNet-18 phase-retrieval workflow](images/resnet18-workflow-figure.png)
 
 ## Research Scope
 
